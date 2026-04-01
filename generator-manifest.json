@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "vfd controller",
+  "description_recipe": "vfd controller",
+  "history_source_dir": "VPLEDControl",
+  "internal_package_name": "enigma2-plugin-systemplugins-vfdcontrol",
+  "module_dir_name": "VPLEDControl",
+  "output_subdir": "VPLEDControl",
+  "package_name": "enigma2-plugin-systemplugins-vfdcontrol-v-p-l-e-d-control",
+  "plugin_src_rel": "VPLEDControl",
+  "python_package": "VPLEDControl",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "VPLEDControl",
+  "rrecommends": "",
+  "rreplaces": ""
+}

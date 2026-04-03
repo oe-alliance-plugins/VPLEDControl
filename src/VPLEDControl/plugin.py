@@ -19,7 +19,7 @@ from Tools.HardwareInfo import HardwareInfo
 try:
 	from Components.SystemInfo import BoxInfo
 	IMAGEDISTRO = BoxInfo.getItem("distro")
-except:
+except ImportError:
 	from boxbranding import getImageDistro
 	IMAGEDISTRO = getImageDistro()
 
@@ -43,12 +43,12 @@ def vfd_write(text):
 	if use_oled:
 		try:
 			open("/dev/dbox/oled0", "w").write(text)
-		except:
+		except OSError:
 			pass
 	else:
 		try:
 			open("/dev/dbox/lcd0", "w").write(text)
-		except:
+		except OSError:
 			pass
 
 
@@ -190,11 +190,11 @@ class Channelnumber:
 		try:
 			# Not all images have getIndicatorRecordingsCount
 			recordings = self.session.nav.getIndicatorRecordingsCount()
-		except:
+		except Exception:
 			try:
 				# Not all images support recording type indicators / TODO: This should be replaced by getIndicatorRecordingsCount
 				recordings = self.session.nav.getRecordings(False, Components.RecordingConfig.recType(config.recording.show_rec_symbol_for_rec_types.getValue()))
-			except:
+			except Exception:
 				recordings = self.session.nav.getRecordings()
 		if recordings:
 			MyRecLed = True

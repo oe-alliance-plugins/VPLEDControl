@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1-En-Th\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:55+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2016-05-07 14:16+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: Tony @ Thai Dreambox <tonyboyth@gmail.com>\n"
@@ -18,65 +18,86 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.7\n"
 
+#: ../plugin.py:29
 msgid "Always off"
 msgstr ""
 
+#: ../plugin.py:281
 msgid "Brightness Level 1"
 msgstr ""
 
+#: ../plugin.py:282
 msgid "Brightness Level 2"
 msgstr ""
 
+#: ../plugin.py:32
 msgid "Brightness level"
 msgstr ""
 
+#: ../plugin.py:259
 msgid "Cancel"
 msgstr "ยกเลิก"
 
+#: ../plugin.py:397
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby Clock"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby off"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Clock always"
 msgstr ""
 
+#: ../plugin.py:248 ../plugin.py:349 ../plugin.py:356
 msgid "LED Display Setup"
 msgstr ""
 
+#: ../plugin.py:32
 msgid "Off"
 msgstr ""
 
+#: ../plugin.py:32
 msgid "On/Off"
 msgstr ""
 
+#: ../plugin.py:260
 msgid "Save"
 msgstr "บันทึก"
 
+#: ../plugin.py:277 ../plugin.py:296
 msgid "Show REC-Symbol in Display"
 msgstr ""
 
+#: ../plugin.py:279 ../plugin.py:298
 msgid "Show blinking Clock on Display during recording"
 msgstr ""
 
+#: ../plugin.py:274 ../plugin.py:294
 msgid "Show on LED"
 msgstr ""
 
+#: ../plugin.py:276
 msgid "Time mode"
 msgstr ""
 
+#: ../plugin.py:261
 msgid "Update Date/Time"
 msgstr ""
 
+#: ../plugin.py:31
 msgid "no"
 msgstr ""
 
+#: ../plugin.py:31
 msgid "yes"
 msgstr ""

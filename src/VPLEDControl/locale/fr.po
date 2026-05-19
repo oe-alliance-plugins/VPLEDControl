@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:55+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-31 11:20+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: french\n"
@@ -14,65 +14,86 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
+#: ../plugin.py:29
 msgid "Always off"
 msgstr "Toujours éteinte"
 
+#: ../plugin.py:281
 msgid "Brightness Level 1"
 msgstr "Niveau de luminosité 1"
 
+#: ../plugin.py:282
 msgid "Brightness Level 2"
 msgstr "Niveau de luminosité 2"
 
+#: ../plugin.py:32
 msgid "Brightness level"
 msgstr "Niveau de luminosité"
 
+#: ../plugin.py:259
 msgid "Cancel"
 msgstr "Annuler"
 
+#: ../plugin.py:397
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby Clock"
 msgstr "Numéro de canal dans l'horloge de veille"
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby off"
 msgstr "Numéro de canal en veille éteint"
 
+#: ../plugin.py:29
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Numéro de Canal/Horloge dans l’horloge de veille"
 
+#: ../plugin.py:29
 msgid "Clock always"
 msgstr "Horloge toujours"
 
+#: ../plugin.py:248 ../plugin.py:349 ../plugin.py:356
 msgid "LED Display Setup"
 msgstr "Configuration de l'affichage LED"
 
+#: ../plugin.py:32
 msgid "Off"
 msgstr "Hors"
 
+#: ../plugin.py:32
 msgid "On/Off"
 msgstr "Marche/Arrêt"
 
+#: ../plugin.py:260
 msgid "Save"
 msgstr "Sauver"
 
+#: ../plugin.py:277 ../plugin.py:296
 msgid "Show REC-Symbol in Display"
 msgstr "Afficher le symbole REC à l'écran"
 
+#: ../plugin.py:279 ../plugin.py:298
 msgid "Show blinking Clock on Display during recording"
 msgstr "Afficher l'horloge clignotante sur l'affichage pendant l'enregistrement"
 
+#: ../plugin.py:274 ../plugin.py:294
 msgid "Show on LED"
 msgstr "Afficher sur LED"
 
+#: ../plugin.py:276
 msgid "Time mode"
 msgstr "Mode heure"
 
+#: ../plugin.py:261
 msgid "Update Date/Time"
 msgstr "Mise-à-jour Date/Heure"
 
+#: ../plugin.py:31
 msgid "no"
 msgstr "non"
 
+#: ../plugin.py:31
 msgid "yes"
 msgstr "oui"

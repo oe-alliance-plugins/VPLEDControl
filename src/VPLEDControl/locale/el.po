@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:55+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2017-01-11 20:44+0200\n"
 "Last-Translator: MCelliot_g <mcelliot_g@hotmail.com>\n"
 "Language-Team: \n"
@@ -18,65 +18,86 @@ msgstr ""
 "X-Generator: Poedit 1.8.8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../plugin.py:29
 msgid "Always off"
 msgstr "Πάντα εκτός"
 
+#: ../plugin.py:281
 msgid "Brightness Level 1"
 msgstr "Επίπεδο φωτεινότητας 1"
 
+#: ../plugin.py:282
 msgid "Brightness Level 2"
 msgstr "Επίπεδο φωτεινότητας 2"
 
+#: ../plugin.py:32
 msgid "Brightness level"
 msgstr "Επίπεδο φωτεινότητας"
 
+#: ../plugin.py:259
 msgid "Cancel"
 msgstr "Ακύρωση"
 
+#: ../plugin.py:397
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby Clock"
 msgstr "Αριθμός καναλιού στην Αναμονή Ρολόι "
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby off"
 msgstr "Απενεργοποίηση αριθμού στην αναμονή"
 
+#: ../plugin.py:29
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Αριθμός καναλιού/Ρολόι στην Αναμονή Ρολόι"
 
+#: ../plugin.py:29
 msgid "Clock always"
 msgstr "Πάντα Ρολόι"
 
+#: ../plugin.py:248 ../plugin.py:349 ../plugin.py:356
 msgid "LED Display Setup"
 msgstr "Ρυθμίσεις Οθόνης LED"
 
+#: ../plugin.py:32
 msgid "Off"
 msgstr "Κλειστό"
 
+#: ../plugin.py:32
 msgid "On/Off"
 msgstr "Ανοικτό/Κλειστό"
 
+#: ../plugin.py:260
 msgid "Save"
 msgstr "Αποθήκευση"
 
+#: ../plugin.py:277 ../plugin.py:296
 msgid "Show REC-Symbol in Display"
 msgstr "Εμφάνιση συμβόλου REC στην Οθόνη"
 
+#: ../plugin.py:279 ../plugin.py:298
 msgid "Show blinking Clock on Display during recording"
 msgstr "Εμφάνιση αναβοσβηνόμενου Ρολογιού στην Οθόνη κατά την εγγραφή"
 
+#: ../plugin.py:274 ../plugin.py:294
 msgid "Show on LED"
 msgstr "Εμφάνιση στη LED"
 
+#: ../plugin.py:276
 msgid "Time mode"
 msgstr "Λειτουργία ώρας"
 
+#: ../plugin.py:261
 msgid "Update Date/Time"
 msgstr "Ενημέρωση Ημερομηνίας/Ώρας"
 
+#: ../plugin.py:31
 msgid "no"
 msgstr "όχι"
 
+#: ../plugin.py:31
 msgid "yes"
 msgstr "ναι"

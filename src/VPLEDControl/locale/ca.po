@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:55+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2016-05-07 14:14+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: openspa.info\n"
@@ -14,65 +14,86 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.7\n"
 
+#: ../plugin.py:29
 msgid "Always off"
 msgstr "Sempre apagat"
 
+#: ../plugin.py:281
 msgid "Brightness Level 1"
 msgstr "Nivell de brillantor 1"
 
+#: ../plugin.py:282
 msgid "Brightness Level 2"
 msgstr "Nivell de brillantor 2"
 
+#: ../plugin.py:32
 msgid "Brightness level"
 msgstr "Nivell de brillantor"
 
+#: ../plugin.py:259
 msgid "Cancel"
 msgstr "Cancel·lar"
 
+#: ../plugin.py:397
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby Clock"
 msgstr "Nº de canal, rellotge en repòs"
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby off"
 msgstr "Nº de canal, apagat en repòs"
 
+#: ../plugin.py:29
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Nº canal/rellotge, rellotge en repòs"
 
+#: ../plugin.py:29
 msgid "Clock always"
 msgstr "Sempre el rellotge"
 
+#: ../plugin.py:248 ../plugin.py:349 ../plugin.py:356
 msgid "LED Display Setup"
 msgstr "LED/Display VFD"
 
+#: ../plugin.py:32
 msgid "Off"
 msgstr "Deshabilitat"
 
+#: ../plugin.py:32
 msgid "On/Off"
 msgstr "Enc./apagat"
 
+#: ../plugin.py:260
 msgid "Save"
 msgstr "Desar"
 
+#: ../plugin.py:277 ../plugin.py:296
 msgid "Show REC-Symbol in Display"
 msgstr "Mostrar 'REC' al display"
 
+#: ../plugin.py:279 ../plugin.py:298
 msgid "Show blinking Clock on Display during recording"
 msgstr "Reloj intermitent al display en l'enregistrament"
 
+#: ../plugin.py:274 ../plugin.py:294
 msgid "Show on LED"
 msgstr "Text al VFD"
 
+#: ../plugin.py:276
 msgid "Time mode"
 msgstr "12/24 h."
 
+#: ../plugin.py:261
 msgid "Update Date/Time"
 msgstr "Actualitzar data/hora"
 
+#: ../plugin.py:31
 msgid "no"
 msgstr "no"
 
+#: ../plugin.py:31
 msgid "yes"
 msgstr "si"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:55+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2020-04-07 21:30+0200\n"
 "Last-Translator: esmos\n"
 "Language-Team: CÜNEYT OCAKLILAR <ocaklilar@gmail.com>\n"
@@ -17,65 +17,86 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Bookmarks: 2450,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
+#: ../plugin.py:29
 msgid "Always off"
 msgstr "Herzaman kapalı"
 
+#: ../plugin.py:281
 msgid "Brightness Level 1"
 msgstr "Parlaklık Seviye 1"
 
+#: ../plugin.py:282
 msgid "Brightness Level 2"
 msgstr "Parlaklık Seviye 2"
 
+#: ../plugin.py:32
 msgid "Brightness level"
 msgstr "Parlaklık Seviyesi"
 
+#: ../plugin.py:259
 msgid "Cancel"
 msgstr "İptal"
 
+#: ../plugin.py:397
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby Clock"
 msgstr "Bekleme Saatindeki Kanal Numarası"
 
+#: ../plugin.py:29
 msgid "Channelnumber in Standby off"
 msgstr "Kanal Numarası Bekleme modunda kapalı"
 
+#: ../plugin.py:29
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Bekleme Saatindeki Kanal Numarası/Saati"
 
+#: ../plugin.py:29
 msgid "Clock always"
 msgstr "Daima saat"
 
+#: ../plugin.py:248 ../plugin.py:349 ../plugin.py:356
 msgid "LED Display Setup"
 msgstr "LED Ekran Kurulumu"
 
+#: ../plugin.py:32
 msgid "Off"
 msgstr "Kapalı"
 
+#: ../plugin.py:32
 msgid "On/Off"
 msgstr "Açık/Kapalı"
 
+#: ../plugin.py:260
 msgid "Save"
 msgstr "Kaydet"
 
+#: ../plugin.py:277 ../plugin.py:296
 msgid "Show REC-Symbol in Display"
 msgstr "Ekranda REC-Sembolünü Göster"
 
+#: ../plugin.py:279 ../plugin.py:298
 msgid "Show blinking Clock on Display during recording"
 msgstr "Kayıt sırasında yanıp sönen Saati Ekranda Göster"
 
+#: ../plugin.py:274 ../plugin.py:294
 msgid "Show on LED"
 msgstr "LED'de göster"
 
+#: ../plugin.py:276
 msgid "Time mode"
 msgstr "Zaman modu"
 
+#: ../plugin.py:261
 msgid "Update Date/Time"
 msgstr "Güncelleme Tarihi/Saati"
 
+#: ../plugin.py:31
 msgid "no"
 msgstr "Hayır"
 
+#: ../plugin.py:31
 msgid "yes"
 msgstr "Evet"
